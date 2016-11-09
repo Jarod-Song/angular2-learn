@@ -8,7 +8,7 @@
     "experimentalDecorators": true,
     "removeComments": false,
     "noImplicitAny": false,
-    "root": "./src",
-    "out": "./app"
+    "rootDir": "./src",
+    "outDir": "./app"
   }
 }
